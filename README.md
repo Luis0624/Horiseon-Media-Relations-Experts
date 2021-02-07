@@ -14,7 +14,7 @@
 Use the following gitHub link [Horiseon Repo](https://github.com/Luis0624/Horiseon-Media-Relations-Experts.git) to get to the github page and be able to clone the repo.
 Demo image for cloning github repo
 
-![GitHub cloning ](assets\images\github-cloning.jpg)
+[GitHub cloning ](assets/images/github-cloning.jpg)
 [demo for cloning github repo](https://github.com/Luis0624/Horiseon-Media-Relations-Experts.git)
 
 After copying the ssh/https link open your terminal(MacOS) or Gitbash(Windows) and enter the command git clone "paste link here"
