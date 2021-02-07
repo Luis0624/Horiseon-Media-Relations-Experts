@@ -11,19 +11,26 @@
   * Cost management
   
 ### INSTALLATION
-Follow the gitHub link
+Use the following gitHub link [Horiseon Repo](https://github.com/Luis0624/Horiseon-Media-Relations-Experts.git) to get to the github page and be able to clone the repo.
+Demo image for cloning github repo
+
+![GitHub cloning ](assets\images\github-cloning.jpg)
+[demo for cloning github repo](https://github.com/Luis0624/Horiseon-Media-Relations-Experts.git)
+
+After copying the ssh/https link open your terminal(MacOS) or Gitbash(Windows) and enter the command git clone "paste link here"
+In your file finder open the folder that was created after cloning in the location you chose to clone the repo. Open the folder that was created with VS code(or any code editing program) and you should have the files and images that was used. 
 
 ### USAGE
-for images
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
 
-for links
-http://github.com - automatic!
-[GitHub](http://github.com)
+Using VS code, or your choice of editor feel free to look through the HTML file and the CSS stylesheet. Contributions are welcome if they conform to the the following requirements:
+
+* Refactoring any code will not change any the appearance of the webpage
+* Important: Use the Scout Rule, which recommends that you always leave the code a little cleaner than when you found it.
+* If any code is changed please add a comment stating what was changed above the changed code.
+
+
 ### CREDITS
 
 
 ### LICENSE
-
-With with Search Engine Optimization to increase their visibility and find the right customers for their business. Horiseon also assists their clients manage their online reputation as come up with the most beneifical marketing on social media platforms.  
+  
